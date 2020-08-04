@@ -7,4 +7,3 @@ Olá! 🖖
 💻 Busco colaborar com projetos em Front-end usando Bootstrap ou Materialize. <br>
 ✉️ Entre em contato comigo: <a href="https://www.linkedin.com/in/marielleporcidonio/">LinkedIn</a><br>
 ⚡ Eaí pequeno gafanhoto?<br>
-Agradeço muito ao Gustavo Guanabara do Curso em Vídeo pelo incentivo
