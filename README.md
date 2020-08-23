@@ -3,7 +3,7 @@
 My name is Marielle Porcidonio from Brazil (🇧🇷). 
 I am a computer technician and a student of Systems Analysis and Development, and at the moment I am focused on learning Web Development. I have been working on some projects to put in my portfolio, feel free!
 
-In my free time I like to plant 🌱, watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵) and occasionally beer (🍺).
+In my free time I like to plant :seedling:, watch movies series (:tv:), read books (:books:), listen to music (:notes:) and occasionally beer (:beer:).
 
 Would you like to meet me?
 
